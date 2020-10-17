@@ -15,7 +15,7 @@ while True:
 		score = score + 1
 		print(isPalindrome, list)
 	else:
-		print('That word is not a palindrome. Try again')
+		print('That word is not a palindrome. Try again!')
 
 	if score == 5:
 		print('You win!')
